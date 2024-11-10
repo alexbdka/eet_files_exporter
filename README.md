@@ -32,3 +32,8 @@ Pour utiliser le programme sans installer Python, un exécutable `.exe` a été 
 1. **Téléchargez l'exécutable** : Téléchargez le fichier `EET_Files_Exporter.exe` fourni, qui est autonome.
 2. **Exécutez le fichier** : Double-cliquez sur `EET_Files_Exporter.exe` pour lancer le programme.
 3. **Suivez les étapes suivantes** pour utiliser l'application.
+
+### Notes supplémentaires
+
+- Le dossier source idéal est le dossier `./mods/`, qui contient tous les sous-dossiers des mods.
+  Le programme recherchera récursivement tous les fichiers compatibles qu'il y trouvera.
